@@ -1,4 +1,4 @@
-### Hi, I'm Raşit! 👋
+### <img src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1650202595~hmac=cb500b3a8f70f928163ebe8225c2bd1e" /> Hi, I'm Raşit! 👋
 
 🔴 💻 I’m currently working on Spring Boot
 
