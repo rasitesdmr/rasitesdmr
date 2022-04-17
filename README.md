@@ -1,6 +1,6 @@
 ### Hi, I'm Raşit! 👋
 
-https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
+img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"/>
 
 
 * 💻 I’m currently working on Spring Boot
