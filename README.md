@@ -10,6 +10,7 @@
 
 ### GitHub Stats And Top Languages :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasitesdmr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasitesdmr&layout=compact)](https://github.com/rasitesdmr/github-readme-stats)
 
 
 
