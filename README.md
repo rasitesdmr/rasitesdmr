@@ -1,7 +1,5 @@
 ### Hi, I'm Raşit! 👋
 
-<img src="https://chromedino.com/">
-
 * 💻 I’m currently working on Spring Boot
 * 📬 How to reach me mrasitesdemir7@gmail.com
 * 💬 Ask me about Everything
