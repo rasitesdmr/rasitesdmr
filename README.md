@@ -1,5 +1,8 @@
 ### Hi, I'm Raşit! 👋
 
+https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
+
+
 * 💻 I’m currently working on Spring Boot
 * 📬 How to reach me mrasitesdemir7@gmail.com
 * 💬 Ask me about Everything
