@@ -6,4 +6,4 @@
 * 👨‍💻 I love my job
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasitesdmr&show_icons=true&theme=radical)
- ![droid](https://img.icons8.com/color-glass/48/000000/android-os.png)  Hi, I'm Yağmur!
+ 
