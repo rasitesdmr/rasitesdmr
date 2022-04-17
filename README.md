@@ -1,4 +1,4 @@
-### <img src="https://www.hizliresim.com/21sxfzl" /> Hi, I'm Raşit! 👋
+### <img src="https://cdn-icons.flaticon.com/png/128/4191/premium/4191057.png?token=exp=1650202880~hmac=2f669589f2377c02b89870aa9658a46b" /> Hi, I'm Raşit! 👋
 
 🔴 💻 I’m currently working on Spring Boot
 
