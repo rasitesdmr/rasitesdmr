@@ -4,3 +4,5 @@
 * 📬 How to reach me mrasitesdemir7@gmail.com
 * 💬 Ask me about Everything
 * 👨‍💻 I love my job
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasitesdmr)](https://github.com/anuraghazra/github-readme-stats)
