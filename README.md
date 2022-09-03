@@ -1,6 +1,6 @@
   
  <h1 align="center">Hi, I'm Raşit! 👋 </h1>
-
+<font size="5">I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages.  </font>
 <p align="center" font-size:25px;>I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages. 
 </p>
 <p align="center" >You can reach me here : 
