@@ -1,13 +1,7 @@
-##  Hi, I'm Raşit! 👋 
+ Hi, I'm Raşit! 👋 
+ <h1 align="center">Hi, I'm Raşit! 👋 </h1>
 
-<body style="background-color:red ">
-
-    <!-- h1 le başlık giriyorduk . color la başlığımızın rengini beliriliyoruz . font-size boyutunu belirliyoruz.-->
-    <h1 style="color: red; font-size: 60px;">Kırmızı Başlık</h1>
-
-</body>
-
-<p align="center" >I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages. 
+<p align="center" style=font-size:30px;>I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages. 
 </p>
 <p align="center" >You can reach me here : 
 <a href="mrasitesdemir7@gmail.com">mrasitesdemir7@gmail.com</a>
