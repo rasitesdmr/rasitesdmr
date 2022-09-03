@@ -1,6 +1,8 @@
 ##  Hi, I'm Raşit! 👋 
 
-<p align="center" >I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages. You can reach me here: **mrasitesdemir7@gmail.com** </p> 
+<p align="center" >I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages. You can reach me here : 
+<a href="mrasitesdemir7@gmail.com">Send email</a>
+</p> 
 
 <img src="https://github.com/rasitesdmr/rasitesdmr/blob/main/images/rasit.gif">
 
