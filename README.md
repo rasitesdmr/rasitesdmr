@@ -28,6 +28,8 @@
 <a herf="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 <a herf="https://swagger.io/"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/></a>
 <a herf="https://www.microsoft.com/tr-tr/sql-server/sql-server-2022"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a>
+<a herf="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a herf="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>
 
 <h2 align="center">GitHub Stats And Top Languages</h2>
