@@ -1,12 +1,6 @@
 ##  Hi, I'm Raşit! 👋 
 
-🔴 💻 I’m currently working on Spring Boot
-
-🟠 📬 How to reach me mrasitesdemir7@gmail.com
-
-🟡 💬 Ask me about Everything
-
-🟢 👨‍💻 I love my job    
+<p>I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages. You can reach me here: mrasitesdemir7@gmail.com</p> 
 
 <img src="https://github.com/rasitesdmr/rasitesdmr/blob/main/images/rasit.gif">
 
