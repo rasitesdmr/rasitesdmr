@@ -13,7 +13,7 @@
 <a herf="https://www.linkedin.com/in/muhammed-e%C5%9Fdemir-b87070226"><img src="https://camo.githubusercontent.com/cf377740c8a3d9d86f4507d4ae847ab3cb4b390efe3487519c309654776b5599/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3061363663322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
 </p>
 
-<img align="center" src="https://github.com/rasitesdmr/rasitesdmr/blob/main/images/giphy%20(2).gif" width="35%"/>
+<img src="https://github.com/rasitesdmr/rasitesdmr/blob/main/images/giphy%20(2).gif" align="center" width="35%">
 
 </h2>
 <h2 align="center">Languages and Tools</h2> 
