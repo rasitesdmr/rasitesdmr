@@ -1,5 +1,5 @@
  <h1 align="center">Hi 
- <img src="https://github.com/rasitesdmr/rasitesdmr/blob/main/images/Hi.gif" width="350">
+ <img src="https://github.com/rasitesdmr/rasitesdmr/blob/main/images/Hi.gif" width="30px">
  ,I'm Muhammed Raşit Eşdemir
  </h1>
 
