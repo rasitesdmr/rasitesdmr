@@ -1,7 +1,7 @@
   
  <h1 align="center">
  <img src"https://github.com/rasitesdmr/rasitesdmr/blob/main/images/Hi.gif" width="30px">,
- Hi, I'm Muhammed Raşit Eşdemir 👋 
+ Hi, I'm Muhammed Raşit Eşdemir
  </h1>
 
 <p align="center">I am a computer engineering student. I started coding from the java language and continue to learn. I love researching and learning new languages. 
