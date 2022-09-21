@@ -38,6 +38,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasitesdmr&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=rasitesdmr&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=rasitesdmr&theme=chartreuse-dark"></p>
-<a href="http://www.github.com/rasitesdmr"><img src="https://activity-graph.herokuapp.com/graph?username=rasitesdmr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" alt="rasitesdmr" /></a>
+<a href="http://www.github.com/rasitesdmr"><img src="https://activity-graph.herokuapp.com/graph?username=rasitesdmr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://www.instagram.com/rasitesdmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasitesdmr" height="30" width="40" /></a>
