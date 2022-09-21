@@ -42,4 +42,4 @@
 <a href="http://www.github.com/rasitesdmr"><img src="https://activity-graph.herokuapp.com/graph?username=rasitesdmr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
  
-<a herf="https://maven.apache.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a herf="https://mvnrepository.com/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
